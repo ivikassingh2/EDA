@@ -35,3 +35,7 @@ Recommended Python libraries:
 2. Download the dataset from the link above.
 3. Open the Jupyter Notebook and begin your analysis.
 4. Document insights clearly and follow the naming conventions.
+
+## 🚀 Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivikassingh2/EDA/blob/main/Bollywood_EDA.ipynb)
